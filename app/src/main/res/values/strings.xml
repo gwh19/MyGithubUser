@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyGithubUser</string>
+    <string name="github_name">Github Name</string>
+    <string name="searchbar_hint">Cari User</string>
+    <string name="searchview_hint">Ketik User</string>
+    <string name="github_name_detail">Github Detail Name</string>
+    <string name="github_id_detail">github_detail_id</string>
+    <string name="github_followers_detail">Followers</string>
+    <string name="github_following_detail">Following</string>
+    <string name="github_setting">Github Setting</string>
+    <string name="github_profile_name">Anak Agung Aditya Nugraha</string>
+    <string name="github_profile_email">gungwah1927@gmail.com</string>
+    <string name="github_followers">%d Followers</string>
+    <string name="github_following">%d Following</string>
+    <string name="github_favorite_description">Add Favorite</string>
+    <string name="github_share_description">Share User</string>
+    <string name="github_add_actions">Actions</string>
+    <string name="github_favorite">Github Favorite</string>
+    <string name="switch_theme">Switch Theme</string>
+</resources>
